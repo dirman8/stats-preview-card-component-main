@@ -17,4 +17,4 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Author
 
 - Website - [Sudirman]
-- Frontend Mentor - [@madegilangaditya](https://www.frontendmentor.io/profile/dirman8)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/dirman8)
